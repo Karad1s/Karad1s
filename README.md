@@ -1,5 +1,22 @@
 ## Hi there 👋
 
+I'm Konstantin (Karad1s)
+
+- Tools & Tech
+Programming language:
+C#
+Python
+JS
+PHР
+
+Markup language:
+HTML
+CSS
+XAML
+
+DataBase:
+SQL
+
 <!--
 **Karad1s/Karad1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
