@@ -2,10 +2,10 @@
 
 I'm Konstantin (Karad1s)
 
-Tools & Tech
--Programming language:
+-Tools & Tech
+Programming language:
 C#
-Python
+Python (aiogramm)
 JS
 PHР
 
@@ -16,7 +16,6 @@ XAML
 
 -DataBase:
 SQL
-
 <!--
 **Karad1s/Karad1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
