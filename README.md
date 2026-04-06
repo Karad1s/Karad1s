@@ -1,32 +1,16 @@
 ## Hi there 👋
 
-I'm Konstantin (Karad1s)
+# Константин (Karad1s)
 
--Tools & Tech
-Programming language:
-[C#]
-[Python]
-[PHP]
-[Js]
+## Инструменты и технологии
 
--Markup language:
-[HTML]
-[CSS]
-[XAML]
+| Направление | Технологии |
+|---|---|
+| Языки программирования | C#, Python, PHP, JavaScript |
+| Языки разметки | HTML, CSS, XAML |
+| Базы данных | SQL |
 
--DataBase:
-SQL
-<!--
-**Karad1s/Karad1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Проекты
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [tempCPU](https://github.com/Karad1s/tempCPU) — [Добавь сюда описание: что делает программа, зачем создавалась и на чем написана]
+* [DownloaderBotFromInstagram](https://github.com/Karad1s/DownloaderBotFromInstagram) — [Добавь сюда описание: функционал бота и используемые библиотеки]
