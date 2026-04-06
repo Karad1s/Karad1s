@@ -12,5 +12,5 @@
 
 ## Проекты
 
-* [tempCPU](https://github.com/Karad1s/tempCPU) — [Добавь сюда описание: что делает программа, зачем создавалась и на чем написана]
-* [DownloaderBotFromInstagram](https://github.com/Karad1s/DownloaderBotFromInstagram) — [Добавь сюда описание: функционал бота и используемые библиотеки]
+* [tempCPU](https://github.com/Karad1s/tempCPU) — [Программа написанная на C# с использованием LibreHardaweMonitor]
+* [DownloaderBotFromInstagram](https://github.com/Karad1s/DownloaderBotFromInstagram) — [Бот для скачивания фото/видео через библиотеку instaloader]
