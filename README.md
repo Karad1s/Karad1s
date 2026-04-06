@@ -4,15 +4,15 @@ I'm Konstantin (Karad1s)
 
 -Tools & Tech
 Programming language:
-C#
-Python (aiogramm)
-JS
-PHР
+[C#]
+[Python]
+[PHP]
+[Js]
 
 -Markup language:
-HTML
-CSS
-XAML
+[HTML]
+[CSS]
+[XAML]
 
 -DataBase:
 SQL
